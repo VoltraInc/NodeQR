@@ -6,4 +6,4 @@
 
 ---
 
-<h1>QRMaker - JavaScript QR Code-Creation Module</h1>
+<h1 align="center">QRMaker - JavaScript QR Code-Creation Module</h1>
