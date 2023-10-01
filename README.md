@@ -7,3 +7,6 @@
 ---
 
 <h1 align="center">QRMaker - JavaScript QR Code-Creation Module</h1>
+
+## Introduction
+QRMaker is a node module integratable in JavaScript for anybody to be able to create programs with the ability to generate QR codes.
