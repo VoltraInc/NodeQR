@@ -10,3 +10,9 @@
 
 ## Introduction
 QRMaker is a node module integratable in JavaScript for anybody to be able to create programs with the ability to generate QR codes.
+
+## Package
+To install QRMaker, run this command using [Node JS](https://nodejs.org/):
+```shell
+npm install qrmaker
+```
