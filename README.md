@@ -1,6 +1,6 @@
 <p align="center">
 
-  <img src="">
+  <img src="./src/grphx.gif" width="1000px" height="350px">
 
 </p>
 
