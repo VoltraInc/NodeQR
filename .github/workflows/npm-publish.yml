@@ -1,5 +1,5 @@
-# Node.js Package
-name: qrmaker
+# Node.js Package / qrmaker
+name: Node.js Package
 
 on:
   release:
