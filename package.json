@@ -3,6 +3,11 @@
     "version": "1.0.0",
     "description": "NodeJS Module to Create QR Codes",
     "main": "main.ts",
+    "scripts": {
+      "install": "npm install -g typescript",
+      "test": "tsc main.ts",
+      "run": "tsc main.ts"
+    },
     "repository": {
         "type": "git",
         "url": "git+https://github.com/VoltraInc/qrmaker.git"
