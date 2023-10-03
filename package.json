@@ -2,11 +2,10 @@
     "name": "qrmaker",
     "version": "1.0.0",
     "description": "NodeJS Module to Create QR Codes",
-    "main": "main.ts",
+    "main": "main.js",
     "scripts": {
-      "install": "npm install -g typescript",
-      "test": "tsc main.ts",
-      "run": "tsc main.ts"
+      "test": "node main.js",
+      "run": "node main.js"
     },
     "repository": {
         "type": "git",
