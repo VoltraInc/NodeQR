@@ -1,0 +1,22 @@
+cff-version: "1.2.0"
+date-released: 2023-09
+message: "Install using `npm install qrmaker`"
+title: "QRMaker: NodeJS Module to Create QR Codes"
+url: "https://github.com/VoltraInc/qrmaker"
+authors: 
+  - family-names: Waly
+    given-names: Selim
+preferred-citation:
+  type: conference-paper
+  authors:
+  - family-names: Waly
+    given-names: Selim
+  booktitle: "QRMaker"
+  month: 10
+  start: 38
+  end: 45
+  title: "QRMaker: NodeJS Module to Create QR Codes"
+  year: 2023
+  publisher: "Voltra Incorporation"
+  url: "https://www.voltra.dev/"
+  address: "Online"
