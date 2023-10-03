@@ -64,10 +64,9 @@ document.addEventListener("DOMContentLoaded", function () {
 
 Now you can create a QR code by changing the link to the target URL of your choice.
 
-<br>
-
 > *This module is completely free-to-use by anybody to integrate the amazing and magical ability of QR codes to anything*
 
 <br>
 
-## &copy; Copyright Voltra Incorporation. All rights reserved.
+<h2 align="center">&copy; Copyright Voltra Incorporation. All rights reserved.</h2>
+
