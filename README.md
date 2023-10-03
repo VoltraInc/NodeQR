@@ -20,7 +20,7 @@ npm install qrmaker
 ## Intergrations
 After installing the module, initialize the class `QRCode` to create one. Here is an example using HTML and JavaScript:
 **HTML**:
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
