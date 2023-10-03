@@ -9,16 +9,6 @@
 //---------------------------------------------------------------------
 
 var qrcode = function() {
-
-  //---------------------------------------------------------------------
-  // qrcode
-  //---------------------------------------------------------------------
-
-  /**
-   * qrcode
-   * @param typeNumber 1 to 40
-   * @param errorCorrectionLevel 'L','M','Q','H'
-   */
   var qrcode = function(typeNumber, errorCorrectionLevel) {
 
     var PAD0 = 0xEC;
