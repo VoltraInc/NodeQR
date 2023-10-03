@@ -18,9 +18,27 @@ npm install qrmaker
 ```
 
 ## Intergrations
-After installing the module, initialize the class `QRCode` to create one. Here is an example using JavaScript:
-```javascript
+After installing the module, initialize the class `QRCode` to create one. Here is an example using HTML and JavaScript:
+**HTML**:
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>QRCode Testing</title>
+    <script src="./script.js"></script>
+</head>
+<body>
 
+    <img id="qrcode-container">
+    
+</body>
+</html>
+```
+
+**JavaScript**:
+```javascript
 const qrmaker = require('qrmaker');
 
 function generateQRCode(data, containerId) {
@@ -44,5 +62,7 @@ document.addEventListener("DOMContentLoaded", function () {
 ```
 
 Now you can create a QR code by changing the link to the target URL of your choice.
+
+> *This module is completely free-to-use by anybody to integrate the amazing and magical ability of QR codes to anything*
 
 ## &copy; Copyright Voltra Incorporation. All rights reserved.
