@@ -1,0 +1,24 @@
+{
+    "name": "quantum",
+    "version": "11.10.2",
+    "description": "Reverse Engineering AI Program that specializes in brilliant answer generation, video creation and image drawing.",
+    "main": "index.py",
+    "scripts": {
+        "start": "python main.py",
+        "test": "set HOMEPATH && C:/Users/%HOMEPATH%/anaconda3/Scripts/activate && conda activate base && C:/Users/%HOMEPATH%/anaconda3/python.exe main.py",
+        "install": "pip install -r requirements.txt"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/VoltraInc/quantum.git"
+    },
+    "author": "Selim Waly",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/VoltraInc/quantum/issues"
+    },
+    "homepage": "https://github.com/VoltraInc/quantum#readme",
+    "dependencies": {
+        "gpt4all": "^1.0.0"
+    }
+}
