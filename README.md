@@ -6,15 +6,15 @@
 
 ---
 
-<h1 align="center">QRMaker - NodeJS QR Code-Creation Module</h1>
+<h1 align="center">NodeQR - NodeJS QR Code-Creation Module</h1>
 
 ## Introduction
-QRMaker is a node module for anybody to be able to create programs with the ability to generate QR codes.
+NodeQR is a node module for anybody to be able to create programs with the ability to generate QR codes.
 
 ## Module
-To install QRMaker, run this command using `npm` ([Node JS](https://nodejs.org/) Package Manager):
+To install NodeQR, run this command using `npm` ([Node JS](https://nodejs.org/) Package Manager):
 ```shell
-npm install qrmaker
+npm install nodeqr
 ```
 
 ## Intergration
@@ -40,10 +40,10 @@ After installing the module, call on the module using `import` or `require` and 
 
 **JavaScript**:
 ```javascript
-const qrmaker = require('qrmaker');
+const nodeqr = require('nodeqr');
 
 function generateQRCode(data, containerId) {
-  var qrcode = new qrmaker.QRCode(0, QRCode.ErrorCorrectLevel.L);
+  var qrcode = new nodeqr.QRCode(0, QRCode.ErrorCorrectLevel.L);
   qrcode.addData(data);
   qrcode.make();
 
