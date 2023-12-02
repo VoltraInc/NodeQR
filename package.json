@@ -9,12 +9,12 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/VoltraInc/qrmaker.git"
+        "url": "git+https://github.com/VoltraInc/nodeqr.git"
     },
     "author": "Voltra Incorporation",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/VoltraInc/qrmaker/issues"
+        "url": "https://github.com/VoltraInc/nodeqr/issues"
     },
-    "homepage": "https://github.com/VoltraInc/qrmaker#readme"
+    "homepage": "https://github.com/VoltraInc/nodeqr#readme"
 }
