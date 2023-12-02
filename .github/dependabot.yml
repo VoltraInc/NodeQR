@@ -8,4 +8,4 @@ updates:
   - package-ecosystem: "npm"
     directory: "package-lock.json"
     schedule:
-      interval: "weekly"
+      interval: "daily"
