@@ -1,4 +1,4 @@
-# Node.js Package / qrmaker
+# Node.js Package / nodeqr
 name: Node.js Package
 
 on:
@@ -27,6 +27,6 @@ jobs:
           node-version: 16
           registry-url: https://registry.npmjs.org/
       - run: npm ci
-      - run: npm publish --otp=281808
+      - run: npm publish --otp=880607
         env:
           NODE_AUTH_TOKEN: ${{secrets.npm_token}}
