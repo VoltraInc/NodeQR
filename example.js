@@ -1,7 +1,7 @@
-const qrmaker = require('qrmaker');
+const nodeqr = require('nodeqr');
 
 function generateQRCode(data, containerId) {
-  var qrcode = new qrmaker.QRCode(0, QRCode.ErrorCorrectLevel.L);
+  var qrcode = new nodeqr.QRCode(0, QRCode.ErrorCorrectLevel.L);
   qrcode.addData(data);
   qrcode.make();
 
