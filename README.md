@@ -17,8 +17,8 @@ To install QRMaker, run this command using `npm` ([Node JS](https://nodejs.org/)
 npm install qrmaker
 ```
 
-## Intergrations
-After installing the module, initialize the class `QRCode` to create one. Here is an example using HTML and JavaScript:
+## Intergration
+After installing the module, call on the module using `import` or `require` and initialize the class `QRCode` to create one. Here is an example using HTML and JavaScript:
 
 **HTML**:
 ```html
