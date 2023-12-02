@@ -1,6 +1,6 @@
 {
     "name": "nodeqr",
-    "version": "1.1",
+    "version": "1.1.0",
     "description": "NodeJS Module to Create QR Codes",
     "main": "main.js",
     "scripts": {
