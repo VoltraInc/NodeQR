@@ -1,10 +1,10 @@
 //---------------------------------------------------------------------
 //
-// QRMaker - QR Code Generation System
+// NodeQR - QR Code Generation Module
 //
 // (c) Copyright Voltra Incorporation. All rights reserved.
 //
-// GitHub Repository: https://github.com/VoltraInc/QRMaker
+// GitHub Repository: https://github.com/VoltraInc/NodeQR
 //
 //---------------------------------------------------------------------
 
