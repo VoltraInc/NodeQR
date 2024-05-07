@@ -27,6 +27,6 @@ jobs:
           node-version: 16
           registry-url: https://registry.npmjs.org/
       - run: npm ci
-      - run: npm publish --otp=287652 --otp-valid-until=300
+      - run: npm publish --otp = 311547 # --otp-valid-until=300
         env:
           NODE_AUTH_TOKEN: ${{secrets.npm_token}}
